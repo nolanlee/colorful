@@ -1,0 +1,11 @@
+{
+  "name": "Nolan Li",
+  "emial": "nosaiforever@gmail.com",
+  "version": "0.1",
+  "dependencies": {
+    "gulp": "~3.8.11",
+    "webpack": "~1.8.9",
+    "react": "~0.13.2",
+    "material-ui": "~0.7.4"
+  }
+}
